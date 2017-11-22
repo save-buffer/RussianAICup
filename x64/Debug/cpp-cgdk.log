@@ -1,0 +1,20 @@
+﻿  Strategy.cpp
+  Runner.cpp
+  RemoteProcessClient.cpp
+  MyStrategy.cpp
+  World.cpp
+  VehicleUpdate.cpp
+  Vehicle.cpp
+  Unit.cpp
+  PlayerContext.cpp
+  Player.cpp
+  Move.cpp
+  Game.cpp
+  Facility.cpp
+  CircularUnit.cpp
+  SimpleSocket.cpp
+  PassiveSocket.cpp
+  HTTPActiveSocket.cpp
+  ActiveSocket.cpp
+  Generating Code...
+  cpp-cgdk.vcxproj -> C:\Users\Sasha\Documents\cpp-cgdk\x64\Debug\cpp-cgdk.exe
